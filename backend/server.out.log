@@ -1,0 +1,39 @@
+2026-09-14 22:58:50,125 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-14 22:58:50,137 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-14 22:58:50,149 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-14 22:58:50,159 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-14 22:58:50,171 [INFO] apscheduler.scheduler: Added job "Auto-create Teams meetings" to job store "default"
+2026-09-14 22:58:50,181 [INFO] apscheduler.scheduler: Added job "Send interview reminders" to job store "default"
+2026-09-14 22:58:50,184 [INFO] apscheduler.scheduler: Added job "Sync calendar events with Graph" to job store "default"
+2026-09-14 22:58:50,186 [INFO] apscheduler.scheduler: Added job "Send referral 7-day review reminders" to job store "default"
+2026-09-14 22:58:50,187 [INFO] apscheduler.scheduler: Scheduler started
+2026-09-14 22:58:50,189 [INFO] scheduler: Scheduler started: auto-create meetings (5m), reminders (60m), calendar sync (30m), referral review (6h)
+INFO:     127.0.0.1:57654 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /js/config.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /js/utils.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /css/styles.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /js/login.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /js/shell.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /js/dashboard.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /js/views-employee.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /js/refer.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /js/views-hr.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /js/candidate-portal.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /js/views-misc.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /js/views-admin.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /js/landing.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /js/hero3d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /js/router.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63841 - "GET /api/auth/me HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63841 - "GET /api/jobs/public HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50505 - "GET /assets/logo.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51170 - "GET /api/jobs/public HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/reports/landing-stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57654 - "GET /api/reports/landing-stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52166 - "POST /api/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:52166 - "GET /api/jobs/public HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59188 - "GET /api/reports/landing-stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63418 - "POST /api/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:63418 - "GET /api/jobs/public HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53130 - "GET /api/reports/landing-stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53492 - "GET /api/health HTTP/1.1" 200 OK
